@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "eureka-service",
+			"path": "eureka-service"
+		},
+		{
+			"name": "zuul-service",
+			"path": "zuul-service"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
